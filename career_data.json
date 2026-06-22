@@ -1,0 +1,32 @@
+{
+  "Data Scientist": {
+    "skills": ["Python", "SQL", "Machine Learning", "Statistics"],
+    "roadmap": [
+      "Learn Python",
+      "Learn SQL",
+      "Learn Statistics",
+      "Learn Machine Learning",
+      "Build Projects"
+    ],
+    "interview_questions": [
+      "What is Machine Learning?",
+      "What is Overfitting?",
+      "What is Regression?"
+    ]
+  },
+
+  "Web Developer": {
+    "skills": ["HTML", "CSS", "JavaScript", "Python"],
+    "roadmap": [
+      "Learn HTML",
+      "Learn CSS",
+      "Learn JavaScript",
+      "Learn Flask"
+    ],
+    "interview_questions": [
+      "What is HTML?",
+      "Difference between CSS and Bootstrap?",
+      "What is JavaScript?"
+    ]
+  }
+}
