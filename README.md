@@ -175,7 +175,7 @@ This project demonstrates:
 
 **Ayesha Tanveer**
 
-AI Internship Project
+
 
 ---
 
